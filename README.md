@@ -31,4 +31,5 @@ Indexing과 비슷한 용도로 사용가능, (+, -, *) 기호사용
 "*" or "_"를 문장 앞뒤로 감싸주면 italic체 가 된다. 
 
 "***" or "___" 를 문장 앞뒤로 감싸주면 bold+italic체 가 된다. 
+
 **bold**, *italic*, ***bold+italic***
