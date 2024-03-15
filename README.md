@@ -1,5 +1,7 @@
-# ossproject
-oss개발 수업용(2-1)
+# Ossproject
+Oss개발 수업용(2-1)
+
+## Github readme파일 작성법
 
 ### markdown language
 '#'를 통해 제목의 작성이 가능하다. 
