@@ -1,5 +1,5 @@
 # Ossproject
-Oss개발 수업용(2-1)
+sw개발 수업용(3-1)
 
 ## Github readme파일 작성법
 
